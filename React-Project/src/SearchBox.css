@@ -1,0 +1,14 @@
+.SearchBox{
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+
+.Search:hover{
+    rotate: 360deg;
+    border-top-color:var(--teal)!
+    important;
+    transform:scale(1.03);
+    transition:all 0.9s;
+}
+

@@ -1,0 +1,25 @@
+.InfoBox{
+    text-align: center;
+}
+
+.cardContainer{
+    display: flex;
+    justify-content: center;
+}
+
+.CardStyle:hover{
+    box-shadow: 2px 7px 7px rgb(28, 213, 238);
+    border-top-color:var(--teal)!
+    important;
+    transform:scale(1.03);
+    transition:all 0.9s;
+}
+
+.Myname{
+    
+    color: rgb(160, 67, 247);
+
+    
+}
+
+
